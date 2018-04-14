@@ -93,10 +93,10 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CSS.css" />
+    <Content Include="css\app.css" />
     <Content Include="index.html" />
-    <Content Include="funcoes.js" />
-    <Content Include="logica.js" />
+    <Content Include="js\funcoes.js" />
+    <Content Include="js\logica.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,43 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: lightsteelblue;
+}
+
+#swagger {
+    background-color: lightblue;
+    padding-top: 25px;
+    padding-left: 250px;
+}
+
+#swagger-search{
+    width: 500px;
+    height: 10%;
+}
+
+#swagger > button {
+    background-color: cadetblue;
+    position: absolute;
+    padding-right: 15px;
+}
+
+#racing {
+    background-color: blanchedalmond;
+
+}
+
+#categorias {
+    background-color: burlywood;
+}
+
+#piloto {
+    background-color: aqua;
+}
+
+
+#multimedia {
+    background-color: coral;
+}
